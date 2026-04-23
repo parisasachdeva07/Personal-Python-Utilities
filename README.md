@@ -16,5 +16,6 @@ A collection of useful Python scripts for automating daily student tasks and imp
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/parisasachdeva07/Personal-Python-Utilities.git](https://github.com/parisasachdeva07/Personal-Python-Utilities.git)
+   git clone https://github.com/parisasachdeva07/Personal-Python-Utilities.git
+  
    
